@@ -1,4 +1,4 @@
-aiohttp>=3.8.3
+aiohttp>=3.10.11
 brotlipy>=0.7.0
 pychalk==2.0.1
 pycodestyle==2.8.0
